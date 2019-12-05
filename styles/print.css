@@ -443,7 +443,6 @@ figure {
 
 figure img {
   display: block;
-  width: 40%;
   height: auto;
   margin: auto;
 }
@@ -489,7 +488,7 @@ ul {
 
 ul li {
   margin-left: 3pc;
-  text-indent: -1pc;
+  text-indent: -1.6pc;
 }
 
 ul li:before {
@@ -498,7 +497,7 @@ ul li:before {
   margin-left: 0;
   margin-right: 0.1pc;
   display: inline;
-  font-size: 14px;
+  font-size: 18px;
   float: left;
 }
 
