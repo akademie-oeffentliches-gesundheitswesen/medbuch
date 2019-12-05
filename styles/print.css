@@ -485,28 +485,13 @@ figure figcaption {
 }
 
 ul {
-  list-style-position: outside;
-  list-style-type: none;
+  display: block;
+  list-style-type: disc;
+  margin-top: 9pt;
   margin-bottom: 9pt;
-}
-
-ul li {
-  margin-left: 3pc;
-  text-indent: -1pc;
-}
-
-ul li:before {
-  content: "•";
-  color: black;
   margin-left: 0;
-  margin-right: 0.1pc;
-  display: inline;
-  font-size: 24px;
-  float: left;
-}
-
-ul li p + p {
-  text-indent: 0;
+  margin-right: 0;
+  padding-left: 30px;
 }
 
 #page-navigation ol {
@@ -517,38 +502,13 @@ ul li p + p {
 }
 
 ol {
-  counter-reset: ul;
-  list-style-position: outside;
-  list-style-type: none;
-  margin-bottom: 9pt;
-}
-
-ol li {
-  counter-increment: ul;
-  margin-left: 1.6pc;
-  text-indent: -1.6pc;
-}
-/*
-ol li:before {
-  content: counter(ul);
-  color: magenta;
+  display: block;
+  list-style-type: decimal;
+  margin-top: 1em;
+  margin-bottom: 1em;
   margin-left: 0;
-  margin-right: 0pt;
-  display: inline-block;
-  font-size: 12px;
-  float: left;
-}
-*/
-ol li h5 {
-  display: inline;
-  margin-left: 1pc;
-}
-
-ol li p + p {
-  text-indent: 0pt;
-  text-align: left;
-  margin-bottom: 10pt;
-  margin-left: 12pt;
+  margin-right: 0;
+  padding-left: 40px;
 }
 
 a {
