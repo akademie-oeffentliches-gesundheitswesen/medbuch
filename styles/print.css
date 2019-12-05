@@ -491,8 +491,8 @@ ul {
 }
 
 ul li {
-  margin-left: 2pc;
-  text-indent: -1.6pc;
+  margin-left: 1pc;
+  text-indent: -2pc;
 }
 
 ul li:before {
@@ -996,7 +996,6 @@ h2 {
 /* pages layout */
 
 /* titlepage */
-/* remove cover and p2
 @-epubx-page-master first-page-cover {
   -epubx-page: 1;
   background: url("../images/cover.jpg");
@@ -1007,7 +1006,7 @@ h2 {
   -epubx-page: 2;
   background-size: cover;
 }
- */
+
 
 @-epubx-page-master pre-toc {
   -epubx-page: 4;
