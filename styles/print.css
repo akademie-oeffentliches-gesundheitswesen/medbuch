@@ -492,7 +492,7 @@ ul {
 
 ul li {
   margin-left: 2pc;
-  text-indent: -2pc;
+  text-indent: -1.6pc;
 }
 
 ul li:before {
