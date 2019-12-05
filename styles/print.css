@@ -493,6 +493,7 @@ ul {
   margin-right: 0;
   padding-left: 30px;
   font-size: 9pt;
+  line-height: 14pt;
 }
 
 #page-navigation ol {
@@ -511,6 +512,7 @@ ol {
   margin-right: 0;
   padding-left: 40px;
   font-size: 9pt;
+  line-height: 14pt;
 }
 
 a {
