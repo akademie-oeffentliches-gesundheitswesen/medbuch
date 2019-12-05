@@ -491,8 +491,8 @@ ul {
 }
 
 ul li {
-  margin-left: 2pc;
-  text-indent: -1.6pc;
+  margin-left: 3pc;
+  text-indent: -1pc;
 }
 
 ul li:before {
