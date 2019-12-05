@@ -447,8 +447,8 @@ figure img {
   margin: auto;
 }
 
-figure figure-cat-figure {
-  width: 40%;
+figure img figure-cat-figure {
+  width: 200px;
 }
 
 figure figcaption {
