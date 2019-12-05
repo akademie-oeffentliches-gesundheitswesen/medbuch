@@ -349,8 +349,8 @@ word-spacing: 1px;
 h2 {
   font-size: 14pt;
   text-transform: none;
-  font-weight: normal;
-  margin: 0 0 2em 0;
+  font-weight: bold;
+  margin: 2em 0 1.5em 0;
   page-break-inside: avoid;
   page-break-after: avoid;
 }
@@ -483,7 +483,7 @@ figure figcaption {
 
 ul {
   list-style-position: outside;
-  list-style-type: none;
+  list-style-type: circle;
   margin-bottom: 9pt;
 }
 
@@ -492,15 +492,15 @@ ul li {
   text-indent: -1pc;
 }
 
-ul li:before {
-  content: "•"; /* Insert content that looks like bullets */
+/*ul li:before {
+  content: "•";
   color: #435772;
   margin-left: 0;
   margin-right: 0.1pc;
   display: inline;
   font-size: 12px;
   float: left;
-}
+}*/
 
 ul li p + p {
   text-indent: 0;
