@@ -995,7 +995,7 @@ h2 {
 
 /* pages layout */
 
-/* titlepage */
+/* titlepage
 @-epubx-page-master first-page-cover {
   -epubx-page: 1;
   background: url("../images/cover.jpg");
@@ -1005,7 +1005,7 @@ h2 {
 @-epubx-page-master second-page-backcover {
   -epubx-page: 2;
   background-size: cover;
-}
+}*/
 
 
 @-epubx-page-master pre-toc {
