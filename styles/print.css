@@ -800,11 +800,18 @@ section[data-type="toc"] a:after {
 }
 
 [data-name="mute-logo"] {
-  width: auto;
-  text-align: center;
-  margin: 0;
-  margin-right: 1em;
-  float: centered;
+  width: 40%;
+  align-self: center;
+  margin-top: 16em !important;
+  margin-bottom: 0em;
+  margin-left: 8em;
+}
+
+[data-name="mute-logo2"] {
+  width: 30%;
+  margin-top: 0em !important;
+  margin-bottom: 0em;
+  margin-left: 0em;
 }
 
 [data-name="cokoflow_colour_big"] {
