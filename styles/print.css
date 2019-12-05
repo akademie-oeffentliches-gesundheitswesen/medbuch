@@ -347,9 +347,9 @@ word-spacing: 1px;
 }
 
 h2 {
-  font-size: 14pt;
+  font-size: 16pt;
   text-transform: none;
-  font-weight: bold;
+  font-weight: normal;
   margin: 2em 0 1.5em 0;
   page-break-inside: avoid;
   page-break-after: avoid;
@@ -491,8 +491,8 @@ ul {
 }
 
 ul li {
-  margin-left: 1pc;
-  text-indent: -2pc;
+  margin-left: 3pc;
+  text-indent: -1pc;
 }
 
 ul li:before {
@@ -501,7 +501,7 @@ ul li:before {
   margin-left: 0;
   margin-right: 0.1pc;
   display: inline;
-  font-size: 18px;
+  font-size: 24px;
   float: left;
 }
 
@@ -995,7 +995,7 @@ h2 {
 
 /* pages layout */
 
-/* titlepage */
+/* titlepage
 @-epubx-page-master first-page-cover {
   -epubx-page: 1;
   background: url("../images/cover.jpg");
@@ -1005,7 +1005,7 @@ h2 {
 @-epubx-page-master second-page-backcover {
   -epubx-page: 2;
   background-size: cover;
-}
+}*/
 
 @-epubx-page-master titlepagepage {
   @-epubx-partition body {
