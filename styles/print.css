@@ -170,7 +170,7 @@ html {
 
 p {
   font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
-  font-size: 10.75pt;
+  font-size: 9.75pt;
   line-height: 13.5pt;
   /*text-align: justify;*/
   margin-bottom: 0pt;
@@ -447,6 +447,10 @@ figure img {
   margin: auto;
 }
 
+figure figure-cat-figure {
+  width: 40%;
+}
+
 figure figcaption {
   font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
   margin-top: 0;
@@ -487,13 +491,13 @@ ul {
 }
 
 ul li {
-  margin-left: 3pc;
+  margin-left: 2pc;
   text-indent: -1.6pc;
 }
 
 ul li:before {
   content: "•";
-  color: #435772;
+  color: black;
   margin-left: 0;
   margin-right: 0.1pc;
   display: inline;
