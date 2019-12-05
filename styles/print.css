@@ -783,9 +783,10 @@ section[data-type="toc"] a:after {
 }
 
 [data-name="1phase_colour_big"] {
-  width: 80%;
+  width: 100%;
   text-align: center;
-  margin-left: 10%;
+  margin-bottom: 12pt;
+  margin-top: 12pt;
 }
 
 [data-name="2phase_colour_icon"] {
