@@ -2,16 +2,17 @@
 
 ## TDL
 
-1. Front cover
-2. End pages
-3. Running headers
-4. Table with URLs
-5. Images
-6. Logos
-7. German lang and hyphenation
-8. stopping folios on non chapter pages
-9. Add bookmarks to PDF
-10. Settings on Vivlio style viewer
+1. Front cover - SW
+2. End pages - SW
+3. Running headers - Chapter titles; H2; H3; H4. - RQ
+4. Table with URLs - RQ
+5. Images - SW
+6. Logos - RQ
+7. German lang and hyphenation - SW
+8. Stopping folios on non chapter pages - SW
+9. Add bookmarks to PDF - SW
+10. Settings on Vivlio style viewer - SW
+11. Get rid of blue - RQ
 
 ## Automation
 
