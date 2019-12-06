@@ -323,7 +323,7 @@ h4,
 h5,
 h6 {
   font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
-  margin-top: 2.5em;
+  margin-top: 1.5em;
   color: black;
   font-weight: normal;
 }
@@ -368,7 +368,7 @@ h3 {
 
 h4 {
   font-size: 10.75pt;
-  margin-top: 25pt;
+  margin-top: 20pt;
   margin-bottom: 12pt;
   font-weight: normal;
   page-break-inside: avoid;
