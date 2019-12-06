@@ -3,7 +3,6 @@
 ## TDL
 
 1. Running headers - Chapter titles; H2; H3; H4. - RQ
-2. Table with URLs - RQ
 4. Generate PDF - SW
 5. Get rid of blue/line - RQ
 
@@ -17,6 +16,7 @@
 
 1. German lang and hyphenation - SW
 2. End pages - SW - wont do
+3. Table with URLs - RQ - too complex, deal with later
 
 ### Done
 
