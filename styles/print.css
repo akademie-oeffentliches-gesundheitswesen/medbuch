@@ -801,18 +801,14 @@ section[data-type="toc"] a:after {
 }
 
 [data-name="mute-logo"] {
-  width: 80%;
-  align-self: center;
-  margin-top: 16em !important;
-  margin-bottom: 0em;
-  margin-left: auto;
-  margin-right: auto;
+  width: 40%;
+  margin-top: 17em !important;
+  margin-left: 7em;
 }
 
 [data-name="mute-logo2"] {
-  width: 70%;
+  width: 30%;
   margin-top: 0em !important;
-  margin-bottom: 0em;
   margin-left: 0em;
 }
 
