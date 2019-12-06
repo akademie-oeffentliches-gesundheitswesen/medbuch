@@ -23,10 +23,10 @@
     src : url(../fonts/NotoSans-BoldItalic.ttf);
 }
 -@font-face {
-    font-family : -apple-system,BlinkMacSystemFont,"noto sans semibold",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+    font-family : -apple-system,BlinkMacSystemFont,"noto sans medium",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
     font-weight : normal;
     font-style: normal;
-    src : url(../fonts/NotoSans-SemiBold.ttf);
+    src : url(../fonts/NotoSans-Medium.ttf);
 }
 
 h3.titlepageSub {
@@ -322,7 +322,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans medium",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
   margin-top: 1.5em;
   color: black;
   font-weight: normal;
@@ -348,7 +348,7 @@ word-spacing: 1px;
 
 h2 {
   font-size: 14pt;
-  font-family: "noto sans semibold", helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: "noto sans medium", helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
   text-transform: none;
   font-weight: normal;
   /*margin: 1.5em 0 1.2em 0;*/
