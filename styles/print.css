@@ -22,12 +22,12 @@
     font-style: italic;
     src : url(../fonts/NotoSans-BoldItalic.ttf);
 }
-/*-@font-face {
-    font-family : "Gentium Basic", serif;
+-@font-face {
+    font-family : -apple-system,BlinkMacSystemFont,"noto sans semibold",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
     font-weight : normal;
     font-style: normal;
-    src : url(../fonts/GentiumBookBasic.otf);
-}*/
+    src : url(../fonts/NotoSans-SemiBold.ttf);
+}
 
 h3.titlepageSub {
   color: black;
@@ -348,6 +348,7 @@ word-spacing: 1px;
 
 h2 {
   font-size: 14pt;
+  font-family: "noto sans semibold", helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
   text-transform: none;
   font-weight: normal;
   /*margin: 1.5em 0 1.2em 0;*/
