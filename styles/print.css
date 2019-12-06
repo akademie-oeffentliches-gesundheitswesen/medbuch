@@ -539,8 +539,8 @@ table {
 }
 
 table caption {
-  border-top: 1pt solid #435772;
-  border-bottom: 1pt solid #435772;
+  /*border-top: 1pt solid #435772;
+  border-bottom: 1pt solid #435772;*/
   padding: 1em;
   text-align: left;
   margin: 0 auto;
@@ -598,8 +598,7 @@ th {
   border-left: 0;
   border-right: 0;
   padding: 1em;
-  color: #435772;
-  background-color: #435772;
+  color: : black;
   font-style: italic;
   font-weight: normal;
 }
