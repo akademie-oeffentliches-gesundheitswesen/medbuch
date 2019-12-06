@@ -350,7 +350,7 @@ h2 {
   font-size: 16pt;
   text-transform: none;
   font-weight: normal;
-  margin: 2em 0 1.5em 0;
+  margin: 1.5em 0 1.2em 0;
   page-break-inside: avoid;
   page-break-after: avoid;
 }
@@ -804,7 +804,8 @@ section[data-type="toc"] a:after {
   align-self: center;
   margin-top: 16em !important;
   margin-bottom: 0em;
-  margin-left: 8em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 [data-name="mute-logo2"] {
