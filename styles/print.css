@@ -347,21 +347,23 @@ word-spacing: 1px;
 }
 
 h2 {
-  font-size: 16pt;
+  font-size: 14pt;
   text-transform: none;
   font-weight: normal;
-  margin: 2em 0 1.5em 0;
+  /*margin: 1.5em 0 1.2em 0;*/
+  margin-top: 20pt;
+  margin-bottom: 9pt;
   page-break-inside: avoid;
   page-break-after: avoid;
 }
 
 h3 {
   font-size: 12pt;
-  margin-top: 25pt;
+  margin-top: 20pt;
   page-break-inside: avoid;
   page-break-after: avoid;
-  font-weight: bold;
-  margin-bottom: 12pt;
+  font-weight: normal;
+  margin-bottom: 9pt;
 }
 
 h4 {
@@ -447,9 +449,9 @@ figure img {
   margin: auto;
 }
 
-figure img figure-cat-figure {
+/*figure img figure-cat-figure {
   width: 200px;
-}
+}*/
 
 figure figcaption {
   font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
@@ -533,7 +535,7 @@ table {
   border-left: 0;
   border-right: 0;
   text-align: left;
-  font-size: 9pt;
+  font-size: 8pt;
 }
 
 table caption {
@@ -566,7 +568,7 @@ table p,
 table ul,
 table li,
 table ol {
-  font-size: 9pt;
+  font-size: 8pt;
   margin: 0;
   font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
   text-align: left;
@@ -800,15 +802,16 @@ section[data-type="toc"] a:after {
 }
 
 [data-name="mute-logo"] {
-  width: 40%;
+  width: 80%;
   align-self: center;
   margin-top: 16em !important;
   margin-bottom: 0em;
-  margin-left: 8em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 [data-name="mute-logo2"] {
-  width: 30%;
+  width: 70%;
   margin-top: 0em !important;
   margin-bottom: 0em;
   margin-left: 0em;
