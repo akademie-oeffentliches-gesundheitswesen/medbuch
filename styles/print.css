@@ -447,9 +447,9 @@ figure img {
   margin: auto;
 }
 
-figure img figure-cat-figure {
+/*figure img figure-cat-figure {
   width: 200px;
-}
+}*/
 
 figure figcaption {
   font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
@@ -800,7 +800,7 @@ section[data-type="toc"] a:after {
 }
 
 [data-name="mute-logo"] {
-  width: 40%;
+  width: 80%;
   align-self: center;
   margin-top: 16em !important;
   margin-bottom: 0em;
@@ -808,7 +808,7 @@ section[data-type="toc"] a:after {
 }
 
 [data-name="mute-logo2"] {
-  width: 30%;
+  width: 70%;
   margin-top: 0em !important;
   margin-bottom: 0em;
   margin-left: 0em;
