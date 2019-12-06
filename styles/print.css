@@ -532,7 +532,7 @@ table {
   margin-top: 9pt;
   margin-bottom: 18pt;
   border-collapse: collapse;
-  border-bottom: 1pt solid #000;
+  /*border-bottom: 1pt solid #000;*/
   border-left: 0;
   border-right: 0;
   text-align: left;
